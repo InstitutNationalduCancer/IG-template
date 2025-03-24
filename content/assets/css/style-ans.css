@@ -5053,7 +5053,7 @@ a[class*="bg"]:hover {
     margin-top: 2rem;
 }
 .footer-principal {
-    --footer-padding-top: 5rem;
+    --footer-padding-top: 2rem;
     background-color: var(--white, #fff);
     padding-top: var(--footer-padding-top);
 }
@@ -5136,7 +5136,7 @@ a[class*="bg"]:hover {
 }
 @media (min-width: 62em) {
     .footer-principal {
-        --footer-padding-top: 6.4rem;
+        --footer-padding-top: 2rem;
     }
 }
 .btn,
